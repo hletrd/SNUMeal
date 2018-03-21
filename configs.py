@@ -1,3 +1,5 @@
+#App credentials
+
 apikey = ''
 secret = ''
 token = ''
